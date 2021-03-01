@@ -1,1 +1,2 @@
 Hii, Welcome to Git
+I made a small changes &  updated.
